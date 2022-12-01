@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\exPilha\exPilha\bin\Debug\exPilha.exe.config
+C:\Users\aluno\source\repos\exPilha\exPilha\bin\Debug\exPilha.exe
+C:\Users\aluno\source\repos\exPilha\exPilha\bin\Debug\exPilha.pdb
+C:\Users\aluno\source\repos\exPilha\exPilha\obj\Debug\exPilha.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\exPilha\exPilha\obj\Debug\exPilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\exPilha\exPilha\obj\Debug\exPilha.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\exPilha\exPilha\obj\Debug\exPilha.exe
+C:\Users\aluno\source\repos\exPilha\exPilha\obj\Debug\exPilha.pdb
